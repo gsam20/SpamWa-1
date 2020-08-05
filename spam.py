@@ -73,7 +73,7 @@ class spam:
 			
 	def balaji(self):
 		urlb="https://api.cloud.altbalaji.com/accounts/mobile/verify?domain=ID"
-		kod="62"
+		kod="51"
 		ata={
 				"country_code":kod,
 				"phone_number":self.nomer
